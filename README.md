@@ -12,3 +12,6 @@ This Password Generator is able to generate a password which ranges from 8 chara
 ![image](https://user-images.githubusercontent.com/80552617/117556260-efa09a80-b034-11eb-89ee-c2f036dae0ec.png)
 
 ![image](https://user-images.githubusercontent.com/80552617/117556276-1068f000-b035-11eb-9435-67c2ba80e26b.png)
+
+##Link to Password Generator:
+https://brad-sam25.github.io/bradpwGenarator/
